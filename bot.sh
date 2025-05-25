@@ -18,6 +18,6 @@ sleep 2
 ssh -R 5033:localhost:5033 serveo.net
 echo
 echo
-echo "type: << nmap -p 5033 serveo.net >>
+echo "type: << nmap -p 5033 138.68.79.95 >>
 echo
 echo "Thanks for using this tool"
